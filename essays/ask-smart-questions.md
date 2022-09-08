@@ -24,7 +24,7 @@ I am always amazed by coding and all the things that are created by programmers.
 I took his courses for two years and was really glad to have him as my teacher. Although my level in these languages is not very high, I felt accomplished. Mr. Kam assigned different projects with challenging requirements, but I felt so happy that I was able to use what I learned from him and completed his projects. I am planning to list three projects from Mr. Kam into my professional profile because I am really proud of what I made.
 
 
-essayurl: https://stackoverflow.com/questions/40354978/why-does-c-code-for-testing-the-collatz-conjecture-run-faster-than-hand-writte/40355466#40355466
+[Click here for the question that I choose for smart questions](https://stackoverflow.com/questions/40354978/why-does-c-code-for-testing-the-collatz-conjecture-run-faster-than-hand-writte/40355466#40355466)
 
 ## Bad
 
