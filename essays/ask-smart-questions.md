@@ -6,8 +6,10 @@ title: "Ask Smart Questions To Get Awesome Responses"
 date: 2022-09-07
 published: true
 labels:
-  - Asking Questions
   - Software Engineering
+  - Questions
+  - Answers
+  - StackOverflow
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/question.png">
