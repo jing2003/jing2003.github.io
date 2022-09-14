@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/shopping-list/shopping-list-cover.png
+title: "Shopping List"
+date: 2020
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - CSS
+  - HTML
+  - JavaScript
 summary: "A text adventure game I developed for ICS 313."
 ---
 
