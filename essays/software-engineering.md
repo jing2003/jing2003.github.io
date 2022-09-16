@@ -11,20 +11,16 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/software-engineering.png">
 
-*With amazing skills in software engineering will become the future*
+*With amazing skills in software engineering, your future is endless*
 
-## The start of my journey
+## My interest in software engineering
 
-I am always amazed by coding and all the things that are created by programmers. I was lucky that my high school offered coding courses. My high school coding teacher, Mr. Kam, was very energetic and eager to teach his students about coding and this is where I began to learn about coding stuff. At first, I thought everyone in the world code in the same language because I thought that there was only one programming language. However, I was wrong when Mr. Kam introduced so many coding languages: HTML, CSS, JS, and Python. I was overwhelmed and amazed once again.
+I have no idea what software engineering is. My interest in programming started back when I was a high school student. I applied for an information technology course in junior year and I am very glad to make this decision. While attending Mr. Kam’s information technology class, my interest in software engineering continues to grow. Mr. Kam was the one who helped me to widen my interest in software engineering and I have a plan to become a software engineer.
 
-I took his courses for two years and was really glad to have him as my teacher. Although my level in these languages is not very high, I felt accomplished. Mr. Kam assigned different projects with challenging requirements, but I felt so happy that I was able to use what I learned from him and completed his projects. I am planning to list three projects from Mr. Kam into my professional profile because I am really proud of what I made.
+At first, I thought programming was something easy, where you can sit in an office and do just coding. This is definitely wrong. Mr. Kam made me realize that programming is something that can be very complicated, but fun at the same time. Software engineering is something where you will design, build and test software applications from analyzing user requirements. You also have to save the transmission data between the server and web browser and provide automation frameworks and interactive features. There are so much more than these. 
 
-## Have to be careful
+The projects that Mr. Kam assigns are usually individual projects, but we can discuss our ideas with friends or classmates. Some projects are very simple and easy to complete, but others require so much time and effort. I usually spend a lot of time trying to understand how to design and code my project. I want my project to look nice, so I spend a lot of time on choosing the colors, fonts, images, etc. I also spend a lot of time on understanding how HTML and JavaScript work together and interact with the user. The more time I spend on these projects, the more I love software engineering.
 
-Coding is fun, but stressful at the same time. I felt like in all coding languages, you really have to be careful with syntax. If you somehow forgot a semicolon or comma, this will create bugs or errors. Then it’s possible for you to spend hours looking for what's wrong and this happens to me a few times. I am glad to complete the basic JavaScript exercises in FreeCodeCamp to refresh my memory about JavaScript and remind me about the syntaxes.
+## My future in software engineering
 
-## Current thoughts on software engineering
-
-I felt like JavaScript is an awesome programming language for a software engineer. Software engineering will design, build and test software applications from analyzing user requirements. JavaScript can be really useful because it saves the transmission data between the server and web browser and provides automation frameworks and interactive features. 
-
-Athletic software engineering education is challenging, but very useful. When I am trying to solve a problem within a time limit, it’s stressful because it really requires me to know my stuff well. The practice WODs (workout of the day) really made me think that if I know my stuff well, I wouldn’t feel pressured because I can do it.
+As I become more interested in software engineering, I am also interested in artificial intelligence. I am interested in both the front and back end development, so I want to become more skilled in building and designing websites along with making user interaction features. I really want to improve and expand my skills and if possible, combine them with artificial intelligence. In the future, I hope that I can build an artificial intelligence project with skills of software engineering.

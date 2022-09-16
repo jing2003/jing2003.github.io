@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jing2003", "url": "http://github.com/jing2003" },
-      { "network": "linkedin", "username": "jing2003", "url": "http://linkedin.com/in/jing2003" }
+      { "network": "linkedin", "username": "Jingyi He", "url": "https://www.linkedin.com/in/jingyi-he-coding?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO8uQrhSxTRq%2FY9ayhMLP2w%3D%3D" }
     ]
   },
   "interests": [
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "HTML", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "CSS", "HTML", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -35,7 +35,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "August 2021",
+      "startDate": "2021",
       "endDate": "Present",
       "courses": [
       ]
@@ -46,7 +46,7 @@
       "company": "UH Manoa at Manoa",
       "position": "Learning Assistant",
       "website": "",
-      "startDate": "January 2022",
+      "startDate": "2022",
       "endDate": "Present",
       "summary": "Teach and help students to gain a deeper understanding of concepts in Calculus 2.",
       "highlights": [
