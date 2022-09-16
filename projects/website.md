@@ -10,6 +10,7 @@ labels:
   - HTML
 summary: "A website design project that I made in high school."
 ---
+
 ## Design of the project
 
 Tea Cat Cafe is the name of my simple website project. I spent a lot of time designing how the website should look and where to position my div boxes. The div boxes are the HTML division tag, a special element that lets you group similar sets of content together on a web page. Here is a part of my code that shows that I have a lot of div boxes in the HTML file for home page:

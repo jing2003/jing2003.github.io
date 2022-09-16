@@ -23,7 +23,7 @@ Shopping List project is a simple project that uses the Document Object Model (D
 
 In the JavaScript file, everything is input and output from the DOM with no window alerts or prompts. There is a global variable to keep track of the user's input. The user can only add up to four items in the list. If a user tries to add more than four items, the item will not be added and will show up “LIST IS FULL” (just like the second image above). The user can remove things on the list by using only the number on the list. If the user did not input a number, “NUMBER DOES NOT EXIST” will show up. If the user makes an invalid selection, “ITEM DOES NOT EXIST” will show up. If the user makes a valid selection, then the item will be deleted from the list. Here is my implementation in JavaScript.
 
-<pre>
+```
 var num = 0;
 var max = 4;
 
@@ -73,7 +73,7 @@ function removeOne()
     document.getElementById('warning').innerHTML = "";
   }
 }
-</pre>
+```
 
 ## My Role
 
