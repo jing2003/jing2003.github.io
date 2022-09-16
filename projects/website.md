@@ -14,7 +14,7 @@ summary: "A website design project that I made in high school."
 
 Tea Cat Cafe is the name of my simple website project. I spent a lot of time designing how the website should look and where to position my div boxes. The div boxes are the HTML division tag, a special element that lets you group similar sets of content together on a web page. Here is a part of my code that shows that I have a lot of div boxes in the HTML file for home page:
 
-<pre>
+```
 <div id="top">
   <div id="logo"></div>
   <div id="title">Tea Cat Cafe</div>
@@ -52,7 +52,7 @@ Tea Cat Cafe is the name of my simple website project. I spent a lot of time des
 <div id="bottom">
   <p>Address: 415 Kapahulu Ave, Honolulu, HI 96815   /   Phone: (808)-1212-3434  /     Email: teacatcafe@gamil.com</p>
 </div>
-</pre>
+```
 
 In the CSS file, I have to spend a lot of time designing my div boxes. I have to think about the distance between the div boxes and size of div boxes. I have to think about the position of the div boxes (margins, fixed position, etc.).
 
