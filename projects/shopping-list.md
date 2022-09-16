@@ -12,9 +12,9 @@ labels:
 summary: "A user interaction website project that I made in high school."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/shopping-list/dne.png" >
-  <img width="200px" src="../img/shopping-list/full.jpg" >
+<div class="text-center">
+  <img width="400px" src="../img/shopping-list/dne.png" >
+  <img width="400px" src="../img/shopping-list/full.png" >
 </div>
 
 This is something...
