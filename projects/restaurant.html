@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Matcha Cafe | Jingyi He | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/jing2003.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jingyi He | Professional Portfolio">
+    <meta property="og:url" content="https://jing2003.github.io/projects/restaurant.html">
+    <meta property="og:title" content="Matcha Cafe | Jingyi He | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/jing2003.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Matcha Cafe | Jingyi He | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jingyi He</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Matcha Cafe</h1>
+ <p><img class="img-fluid" src="../img/restaurant/home.png" /></p>
+
+<h2 id="design-of-the-project">Design of the project</h2>
+
+<p>Little Dream Star is the name of my project that uses the Document Object Model (DOM), a programming interface for web documents. In this project, the user can enter the amount of orders they want in the input box and click the button to add to the list. The list will calculate the subtotal, tax, and total cost of the user’s order. The user can click the “Print Out Receipt” button to see their receipt on the next page. In the receipt, the user can see their receipt and tip. There is also another button called “Order Again” where the user can go back to the home page and order again. The image below shows how the receipt page looks like:</p>
+
+<p><img class="img-fluid" src="../img/restaurant/receipt.png" /></p>
+
+<p>In the CSS file, there are so many lines of code (a little bit more than 100 lines). I took a lot of time thinking about the design of the website. I have to think about the color, position, background-image, margin, padding, border-style, text-align, font-family, font-size, width, and so much more.</p>
+
+<p>The front end looks pretty simple and nice to me, but the back end looks a little bit more complicated. In the JavaScript file, I have an item list that keeps track of the name of my menu items and the prices. I also have an order array to keep track of the user’s order. I also have many functions to do the calculations. Here is a code example of addMochi function:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function addMochi()
+{
+  var quantity = parseInt(gid('quantity0').value);
+  gid('quantity0').value = "";
+  if(quantity &gt; 0)
+  {
+    var cost = quantity + " " + item[0].name + " = $" + item[0].price * quantity;
+    var list = document.createElement('li');
+    var tn = document.createTextNode(cost);
+    list.appendChild(tn);
+    var pos = gtn('ul')[0];
+    pos.appendChild(list);
+    order.push(cost);
+    localStorage.setItem("Orders", order);
+    subtotal += quantity * item[0].price;
+    gid('subtotal').innerHTML = "Subtotal: $" + subtotal;
+    gid('tax').innerHTML = "Tax: $" + taxes(subtotal);
+    gid('total').innerHTML = "Total: $" + total(subtotal);
+  }
+}
+
+</code></pre></div></div>
+
+<h2 id="my-role">My Role</h2>
+
+<p>This is an individual project that was done by myself.</p>
+
+<h2 id="my-experience">My experience</h2>
+
+<p>My understanding in DOM became better while doing this project. I learned how to return a function with another function. For example, calling document.getElementsByTagName(e) everytime we use is long. I learned how to shorten this call. I can just make another function with a sorter name and return document.getElementsByTagName(e). Here is the code example:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function gtn(e)
+{
+  return document.getElementsByTagName(e);
+}
+</code></pre></div></div>
+
+<p>I also learned that data does not save between websites, so I learned to use local storage in JavaScript. Local storage allows developers to store and retrieve data in the browser. The data stored in local storage will not expire. This means the data will persist even if the tab or the browser window is closed.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
