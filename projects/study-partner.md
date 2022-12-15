@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/restaurant/restaurant-cover.png
+image: img/study-partner/study-partner-logo.png
 title: "Study Partner"
 date: 2022
 published: true
