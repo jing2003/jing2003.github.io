@@ -4,7 +4,7 @@ type: project
 image: img/shopping-list/shopping-list-cover.png
 title: "Shopping List"
 date: 2020
-published: true
+published: false
 labels:
   - CSS
   - HTML
