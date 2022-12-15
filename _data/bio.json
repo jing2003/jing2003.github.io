@@ -38,6 +38,10 @@
       "startDate": "2021",
       "endDate": "Present",
       "courses": [
+        "ICS 212 - Program Structure",
+        "ICS 311 - Algorithms",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I"
       ]
     }
   ],
