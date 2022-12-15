@@ -14,7 +14,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/question.png">
 
-*You can gain more knowledges by asking smart questions*
+*You can gain more knowledges by asking smart questions!*
 
 ## Be smart, ask questions in a smart way
 

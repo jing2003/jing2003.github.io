@@ -10,7 +10,7 @@ labels:
 - Bootstrap
 ---
 
-*Building nice-looking website with purely HTML and CSS can be challenging, so try with UI Framework*
+*Building nice-looking website with purely HTML and CSS can be challenging, so try with UI Framework!*
 
 <div class="text-center">
   <img width="45%" src="../img/essay-ui-framework/basic.png" >

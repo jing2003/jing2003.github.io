@@ -12,7 +12,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/coding-standard.png">
 
-*Learn and use coding standard for yourself and others*
+*Learn and use coding standard for yourself and other!s*
 
 ## What is the coding standard?
 
