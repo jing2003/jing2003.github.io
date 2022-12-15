@@ -8,7 +8,7 @@ published: true
 labels:
 - JavaScript
 - Meteor
-  summary: "Study Partner is a web application designed for computer science students to schedule and organize study sessions. This is a project that I worked on for ICS 314 (Software Engineering I)."
+summary: "Study Partner is a web application designed for computer science students to schedule and organize study sessions. This is a project that I worked on for ICS 314 (Software Engineering I)."
 ---
 
 <img class="img-fluid" src="../img/study-partner/landing.png">
