@@ -8,7 +8,7 @@ published: true
 labels:
   - CSS
   - HTML
-summary: "A website design project that I made in high school."
+summary: "My first website design project that I made in high school with purely (raw) HTML and CSS."
 ---
 
 ## Design of the project
