@@ -6,7 +6,7 @@
     "email": "jhe3@hawaii.edu",
     "phone": "808-386-4463",
     "website": "https://jing2003.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I am BAM student studying for a B.S. and M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to complete B.S. in Spring 2024 and M.S. in Spring 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jing2003", "url": "http://github.com/jing2003" },
@@ -33,15 +33,29 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2021",
       "endDate": "Present",
       "courses": [
-        "ICS 212 - Program Structure",
-        "ICS 311 - Algorithms",
-        "ICS 314 - Software Engineering I",
-        "ICS 321 - Database Systems I"
+        "Program Structure",
+        "Algorithms",
+        "Software Engineering I",
+        "Database Systems I",
+        "Operating Systems",
+        "Data Network",
+        "Machine-Level & System Programming"
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "M.S.",
+      "startDate": "2023",
+      "endDate": "Present",
+      "courses": [
+        "Software Engineering II",
+        "Design for Mobile Devices"
       ]
     }
   ],
@@ -51,7 +65,7 @@
       "position": "Learning Assistant",
       "website": "",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "2022",
       "summary": "Teach and help students to gain a deeper understanding of concepts in Calculus 2.",
       "highlights": [
         "Delivered feedback using positive reinforcement techniques to encourage, motivate and build confidence in students",
