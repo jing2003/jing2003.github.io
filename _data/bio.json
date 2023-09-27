@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "CSS", "HTML", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "CSS", "HTML", "Java", "Javascript", "Python", "Dart", "Jupyter Notebook", "Flutter" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub" ]
+      "keywords": [ "Windows", "Git/GitHub", "IntelliJ", "VS Code" ]
     }
   ],
   "education": [
