@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Make Website Easier With UI Framework | Jingyi He | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/jing2003.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jingyi He | Professional Portfolio">
+    <meta property="og:url" content="https://jing2003.github.io/essays/ui-framework.html">
+    <meta property="og:title" content="Make Website Easier With UI Framework | Jingyi He | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/jing2003.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Make Website Easier With UI Framework | Jingyi He | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jingyi He</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Make Website Easier With UI Framework</h1>
+  <span class="date">06 Oct 2022</span>
+  <hr>
+  <p><em>Building nice-looking website with purely HTML and CSS can be challenging, so try with UI Framework!</em></p>
+
+<div class="text-center">
+  <img width="45%" src="../img/essay-ui-framework/basic.png" />
+  <img width="45%" src="../img/essay-ui-framework/bootstrap.png" />
+</div>
+
+<h2 id="purely-raw-html--css">Purely (Raw) HTML &amp; CSS</h2>
+
+<p>The left side image shown above is a simple website built with basic UI design (purely HTML and CSS). Although this website looks very simple, I have so much trouble completing it. On the image, the website looks pretty fine, but if I adjust the browser of this website, my contents in this website are messed up. The image below shows what I am talking about:</p>
+
+<div class="text-center">
+  <img width="45%" src="../img/essay-ui-framework/basic-messy.png" />
+</div>
+
+<p>Under the “Table of Contents” I want the links to spread out, so I use a margin of 100px. If you view on a full browser, the links are spread out, but not really centered. If you adjust the width of your browser, these links do not look really nice. If you notice, my columns are also messed up. I made each column with a div box with a width of 300px. To make sure that these columns are lined up in the same level, one div box floats to left, another div box floats to right, and the last one with no float. If you view on a full browser, the columns are lined up and the spacing is acceptable. However, if you adjust the width of your browser, the middle column will be squashed or the columns will not be in the same level and looks really bad. So building a website with purely HTML and CSS is really difficult.</p>
+
+<h2 id="ui-framework---bootstrap">UI Framework - Bootstrap</h2>
+
+<p>The right side image shown above is a simple website built with an UI Framework called Bootstrap. Bootstrap definitely made my life easier when building the website. My links in the navigation bar div box are evenly spread and no need to set margin or padding. It’s really awesome that Bootstrap has the class row and column. I can easily make my columns the same level by making these columns inside the class row. These columns will have the same width and the spacing between them looks great. I don’t do margin or floats for these columns anymore. Even if I adjust the width of the browser, these columns still look good. The image below shows what I am talking about:</p>
+
+<div class="text-center">
+  <img width="45%" src="../img/essay-ui-framework/bootstrap-nice.png" />
+</div>
+
+<p>Another thing that I want to mention is that icons in Bootstrap are awesome. Before I knew about Bootstrap, I always thought the icons were made by using images. Then set the width and height to the same (maybe about 50px) and use border-radius to make them round. Now with Bootstrap, I can use so many icons by using their built-in classes.</p>
+
+<h2 id="ui-framework-benefits">UI Framework Benefits</h2>
+
+<p>There are so many benefits of UI framework, especially for software engineers. The UI framework really made building a website so much easier and faster because there is so much ready-to-use code (there is no need to start from scratch). For software engineers, the UI Framework makes the front-end development’s life so much easier. They don’t have to spend too much time on user interface design and there are just so many built-in codes to use. By using these UI frameworks, the length of the code can be reduced significantly. For example, with Bootstrap my CSS file looks so simple and short.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
