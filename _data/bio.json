@@ -1,16 +1,30 @@
 {
   "basics": {
     "name": "Jingyi He",
-    "label": "Student",
+    "label": "CS Graduate - Open to Opportunities",
     "picture": "https://github.com/jing2003.png",
-    "email": "jhe3@hawaii.edu",
+    "email": "jingyi.he.jh@gmail.com",
     "phone": "808-386-4463",
     "website": "https://jing2003.github.io",
-    "summary": "I am BAM student studying for a B.S. and M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to complete B.S. in Spring 2024 and M.S. in Spring 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "M.S. and B.S. in Computer Science (University of Hawai'i at Manoa). I build user-focused software across full-stack web (Next.js/TypeScript/MongoDB) and immersive XR experiences (Unity). Interested in roles spanning full-stack engineering and XR/AI-driven applications",
+    "location": {
+      "address": "",
+      "postalCode": "96782",
+      "city": "Pearl City",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "jing2003", "url": "http://github.com/jing2003" },
-      { "network": "linkedin", "username": "Jingyi He", "url": "https://www.linkedin.com/in/jingyi-he-coding?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BO8uQrhSxTRq%2FY9ayhMLP2w%3D%3D" }
+      {
+        "network": "github",
+        "username": "jing2003",
+        "url": "http://github.com/jing2003"
+      },
+      {
+        "network": "linkedin",
+        "username": "Jingyi He",
+        "url": "https://www.linkedin.com/in/jing2003"
+      }
     ]
   },
   "interests": [
@@ -22,21 +36,31 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "CSS", "HTML", "Java", "Javascript", "Python", "Dart", "Jupyter Notebook", "Flutter" ]
+      "name": "Languages",
+      "keywords": ["TypeScript", "Javascript", "Python", "C#", "Java"]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Next.js",
+        "Tailwind CSS",
+        "Meteor.js",
+        "React-Bootstrap",
+        "React Native"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub", "IntelliJ", "VS Code" ]
+      "keywords": ["Windows", "Git/GitHub", "VS Code", "Unity", "Blender"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2021",
-      "endDate": "Present",
+      "startDate": "Aug 2021",
+      "endDate": "May 2024",
       "courses": [
         "Program Structure",
         "Algorithms",
@@ -49,17 +73,33 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science",
       "studyType": "M.S.",
-      "startDate": "2023",
-      "endDate": "Present",
+      "startDate": "Aug 2023",
+      "endDate": "May 2025",
       "courses": [
         "Software Engineering II",
-        "Design for Mobile Devices"
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Software Quality & Maintenance"
       ]
     }
   ],
   "work": [
+    {
+      "company": "VolunteerAlly",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "Aug 2023",
+      "endDate": "Nov 2025",
+      "summary": "",
+      "highlights": [
+        "Accomplished alignment of web pages with UI/UX designs by editing current page designs or creating new pages based on provided designs, resulting in a consistent and visually appealing user interface",
+        "Enhanced data accessibility for user-facing screens by modifying database schemas and backend functions to return required fields, resulting in complete and reliable page rendering",
+        "Reduced defects in released features by debugging issues through code reading, reproduction, and targeted fixes, resulting in improved stability and fewer regressions",
+        "Utilized: TypeScript, Next.js, Tailwind CSS, Git/GitHub"
+      ]
+    },
     {
       "company": "UH Manoa",
       "position": "Learning Assistant",
